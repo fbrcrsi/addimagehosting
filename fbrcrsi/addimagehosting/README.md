@@ -14,7 +14,7 @@ You can install this on the latest release of phpBB 3.1 by following the steps b
 
 You can use this generic code:
 
-<iframe src="http://www.hostingpics.net/iframe_mini.php" width="400" height="100" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+`<iframe src="http://www.hostingpics.net/iframe_mini.php" width="400" height="100" scrolling="no" frameborder="0" allowtransparency="true"></iframe>`
 
 to hosting your image on Hostingpics service.
 

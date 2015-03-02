@@ -1,0 +1,20 @@
+# fbrcrsi-addimagehosting
+Add custom image hosting service on phpBB 3.1 message editor 
+
+## Quick Install
+You can install this on the latest release of phpBB 3.1 by following the steps below:
+
+1. [Download the latest release](https://github.com/fbrcrsi/fbrcrsi-addimagehosting).
+2. Unzip the downloaded release, and go to the folder to `fbrcrsi-addimagehosting-master`.
+3. copy directory named `fbrcrsi` in the `ext` directory of your phpBB board.
+4. Navigate in the ACP to `Customise -> Manage extensions`.
+5. To configure, edit `/ext/fbrcrsi/addimagehosting/styles/all/template/event/posting_editor_message_after.html` and add your code after <!-- Add your code after this line -->
+6. Look for `Add image hosting service` under the Disabled Extensions list, and click its `Enable` link.
+
+Remember to purge cache each time you edit the templates after the installation
+
+## Uninstall
+
+1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
+2. Look for `Add image hosting service` under the Enabled Extensions list, and click its `Disable` link.
+3. To permanently uninstall, click `Delete Data` and then delete the `/ext/fbrcrsi/addimagehosting` directory.

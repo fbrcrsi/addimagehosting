@@ -11,6 +11,13 @@ You can install this on the latest release of phpBB 3.1 by following the steps b
 5. To configure, edit `/ext/fbrcrsi/addimagehosting/styles/all/template/event/posting_editor_message_after.html` and add your code after <!-- Add your code after this line -->
 6. Look for `Add image hosting service` under the Disabled Extensions list, and click its `Enable` link.
 
+
+You can use this generic code:
+
+<iframe src="http://www.hostingpics.net/iframe_mini.php" width="400" height="100" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+
+to hosting your image on Hostingpics service.
+
 Remember to purge cache each time you edit the templates after the installation
 
 ## Uninstall

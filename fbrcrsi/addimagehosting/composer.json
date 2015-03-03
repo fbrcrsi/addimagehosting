@@ -3,7 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Add image hosting service",
 	"homepage": "http://www.fbrcrsi.fr",
-	"version": "1.0.0",
+	"version": "1.0.0-dev",
 	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
 	"license": "GPL-2.0",
 	"authors": [

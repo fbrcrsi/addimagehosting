@@ -2,7 +2,7 @@
 	"name": "fbrcrsi/addimagehosting",
 	"type": "phpbb-extension",
 	"description": "Add image hosting service",
-	"homepage": "http://www.fbrcrsi.fr",
+	"homepage": "https://github.com/fbrcrsi/addimagehosting",
 	"version": "1.0.0-dev",
 	"keywords": ["phpbb", "extension", "picture", "hosting", "image"],
 	"license": "GPL-2.0",
@@ -11,7 +11,7 @@
 			"name": "Frederic",
 			"username": "fbrcrsi",
 			"email": "fbrcrsi@gmail.com",
-			"homepage": "https://github.com/fbrcrsi/addimagehosting",
+			"homepage": "http://www.fbrcrsi.fr/",
 			"role": "Extension Developer"
 		}
 	],

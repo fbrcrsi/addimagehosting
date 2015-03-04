@@ -1,8 +1,8 @@
 # addimagehosting
-Add custom image hosting service on phpBB 3.1 message editor 
+Add custom image hosting service on phpBB 3.1.3 message editor 
 
 ## Quick Install
-You can install this on the latest release of phpBB 3.1 by following the steps below:
+You can install this on the latest release of phpBB 3.1.3 by following the steps below:
 
 1. [Download the latest release](https://github.com/fbrcrsi/addimagehosting).
 2. Unzip the downloaded release, and change the name of the folder to `addimagehosting`.
